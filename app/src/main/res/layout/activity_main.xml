@@ -738,7 +738,7 @@
                 android:layout_marginHorizontal="3dp"
                 app:cornerRadius="30dp"
                 android:text="🖩"
-
+                android:textColor="@color/white"
                 android:textSize="30dp"
                 android:paddingBottom="15dp">
 
