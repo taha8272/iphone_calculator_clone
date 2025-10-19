@@ -113,7 +113,7 @@ public class MainActivity extends AppCompatActivity {
             case "ln":
                 currentExpression.append("ln(");
                 break;
-            case "log10":
+            case "log₁₀":
                 currentExpression.append("log10(");
                 break;
             case "x²":
@@ -188,3 +188,4 @@ public class MainActivity extends AppCompatActivity {
     }
 
 }
+
